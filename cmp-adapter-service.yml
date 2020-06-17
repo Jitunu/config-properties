@@ -1,4 +1,4 @@
-
+tmxServiceUrl: www://tmx
 kafka:
   kafkaTopicMap:
     CMP:
