@@ -1,3 +1,4 @@
+tmxServiceUrl:  Test
 kafka:
   kafkaTopicMap:
     CMP:
