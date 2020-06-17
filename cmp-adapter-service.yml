@@ -7,3 +7,4 @@ kafka:
       BENEFICIARY: Beneficiary_Kafka_Topic_CS
       BULK: Bulk_Kafka_Topic_CS
       PAYMENTSTATUSUPDATE: PSU_Kafka_Topic_CS
+      REG: REG_KAFKA
