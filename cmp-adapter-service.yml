@@ -1,0 +1,8 @@
+kafka:
+  kafkaTopicMap:
+    CMP:
+      PAYMENTCREATE: Payment_Kafka_Topic
+      LOGIN: Login_kafka_Topic
+      BENEFICIARY: Beneficiary_Kafka_Topic
+      BULK: Bulk_Kafka_Topic
+      PAYMENTSTATUSUPDATE: PSU_Kafka_Topic
