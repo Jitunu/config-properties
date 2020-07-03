@@ -2,7 +2,7 @@ tmxServiceUrl: www://tmx
 kafka:
   kafkaTopicMap:
     CMP:
-      PAYMENTCREATE: Payment_Kafka_Topic_CS
+      PAYMENTCREATE: Payment_Kafka_Topic
       LOGIN: Login_kafka_Topic_CS
       BENEFICIARY: Beneficiary_Kafka_Topic_CS
       BULK: Bulk_Kafka_Topic_CS
