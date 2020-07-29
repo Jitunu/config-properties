@@ -7,3 +7,5 @@ kafka:
       BULK: Bulk_Kafka_Topic_CS
       PAYMENTSTATUSUPDATE: PSU_Kafka_Topic_CS
       REG: REG_KAFKA
+tmxServiceUrl: www://mocktmxurl.com
+springConfig: retrieve value from Spring config server
